@@ -14,7 +14,7 @@
 </div>
 
 ### 🔭 I’m currently working on
-- Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Present)
+- Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Mar 2022)
 - FORCS R&D Software Engineer (Apr 2018 ~ Oct 2019)
 
 ---
