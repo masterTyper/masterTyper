@@ -14,6 +14,7 @@
 </div>
 
 ### 🔭 I’m currently working on
+- D.LAB R&D Educatioinal Researcher (Mar 2022 ~ Present)
 - Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Mar 2022)
 - FORCS R&D Software Engineer (Apr 2018 ~ Oct 2019)
 
@@ -23,6 +24,7 @@
 - Languages: Python
 - Topics #1: ChatBot, NLP / Daily Conversation, GPT-3, Metaverse
 - Topics #2: Server Programming, Cloud Computing, Database
+- Topics #3: Arduino, Raspberry Pi, Making
 
 
 <!---
