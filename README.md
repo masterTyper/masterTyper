@@ -5,11 +5,11 @@
 ### Hyunwoo Kim - @masterTyper
 👋 Hi! Welcome to my Github profile!
 
-[![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=prism)](https://opgc.me/#/users/masterTyper)
+[![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=dracula)](https://opgc.me/#/users/masterTyper)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masterTyper&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=masterTyper&theme=chalk)
+![trophy](https://github-profile-trophy.vercel.app/?username=masterTyper)
   
 ![masterTyper's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterTyper)
   
