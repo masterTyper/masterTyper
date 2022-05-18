@@ -16,7 +16,7 @@
 </div>
 
 ### 🔭 I’m currently working on
-- D.LAB IT Educatioinal Researcher (Mar 2022 ~ Present)
+- D.LAB IT Educatioinal Researcher (Mar 2022 ~ May 2022)
 - Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Mar 2022)
 - FORCS Software Engineer (Apr 2018 ~ Oct 2019)
 
