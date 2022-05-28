@@ -16,9 +16,10 @@
 </div>
 
 ### 🔭 I’m currently working on
-- D.LAB IT Educatioinal Researcher (Mar 2022 ~ May 2022)
+- Eazel, Python Developer (June 2022 ~ Present)
+- D.LAB, R&D Educatioinal Researcher (Mar 2022 ~ May 2022)
 - Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Mar 2022)
-- FORCS Software Engineer (Apr 2018 ~ Oct 2019)
+- FORCS, R&D Software Engineer (Apr 2018 ~ Oct 2019)
 
 ---
 
