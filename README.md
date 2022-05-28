@@ -4,6 +4,10 @@
 
 ### Hyunwoo Kim - @masterTyper
 👋 Hi! Welcome to my Github profile!
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunwookim.master@gmail.com)](mailto:hyunwookim.master@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/utilforever/)](https://www.facebook.com/utilforever/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waldo-kim/)](https://www.linkedin.com/in/waldo-kim/)
 
 <!-- [![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=dracula)](https://opgc.me/#/users/masterTyper) -->
   
