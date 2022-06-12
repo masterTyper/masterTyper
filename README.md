@@ -8,7 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyunwookim.master/)](https://www.facebook.com/hyunwookim.master/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waldo-kim/)](https://www.linkedin.com/in/waldo-kim/)
 
-[![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=basic)](https://opgc.me/#/users/masterTyper)
+<!-- [![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=basic)](https://opgc.me/#/users/masterTyper) -->
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masterTyper&theme=buefy&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
