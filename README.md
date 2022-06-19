@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmasterTyper%2Fhit-counter&count_bg=%23FF3359&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=masterTyper)](https://solved.ac/masterTyper)
+  
 ### Hyunwoo Kim - @masterTyper
 👋 Hi! Welcome to my Github profile!   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunwookim.master@gmail.com)](mailto:hyunwookim.master@gmail.com)
@@ -14,7 +17,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=masterTyper)
   
-![masterTyper's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterTyper)
 </div>
 
 ### 🔭 I’m currently working on
