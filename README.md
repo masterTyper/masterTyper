@@ -9,6 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waldo-kim/)](https://www.linkedin.com/in/waldo-kim/)
 
 <!-- [![opgc](https://api.opgc.me/githubs/users/masterTyper/tag/?theme=basic)](https://opgc.me/#/users/masterTyper) -->
+[![Solved.ac masterTyper](http://mazassumnida.wtf/api/v2/generate_badge?boj=masterTyper)](https://solved.ac/masterTyper)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masterTyper&theme=buefy&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
