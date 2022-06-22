@@ -20,10 +20,10 @@
 </div>
 
 ### 🔭 I’m currently working on
-- Eazel, Python Developer (June 2022)
-- D.LAB, IT Educatioinal Researcher (Mar 2022 ~ May 2022)
-- Co-Founder of Reppley, Backend Developer (Feb 2022 ~ Mar 2022)
-- FORCS, R&D Software Engineer (Apr 2018 ~ Oct 2019)
+- Former) Eazel, Python Developer <!-- (June 2022) -->
+- Former) D.LAB, IT Educatioinal Researcher <!-- (Mar 2022 ~ May 2022) -->
+- Former) Co-Founder of Reppley, Backend Developer <!-- (Feb 2022 ~ Mar 2022) -->
+- Former) FORCS, R&D Software Engineer <!-- (Apr 2018 ~ Oct 2019) -->
 
 ---
 
