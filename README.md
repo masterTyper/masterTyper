@@ -29,7 +29,7 @@
 
 ### 🌱 I’m currently learning
 - Languages: Python
-- Focus: Algorithmic Trading
+- Focus: Algorithmic Trading, Automatic Trader
 - Topics #1: ChatBot, NLP / Daily Conversation, GPT-3, Metaverse
 - Topics #2: Server Programming, Cloud Computing, Database
 - Topics #3: Arduino, Raspberry Pi, Making
