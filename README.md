@@ -18,6 +18,7 @@
 </div>
 
 ### 🔭 I’m currently working on
+- Present) Midas, Trading System Developer
 - Former) Eazel, Python Developer <!-- (June 2022) -->
 - Former) D.LAB, IT Educatioinal Researcher <!-- (Mar 2022 ~ May 2022) -->
 - Former) Co-Founder of Reppley, Backend Developer <!-- (Feb 2022 ~ Mar 2022) -->
