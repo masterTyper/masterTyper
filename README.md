@@ -14,6 +14,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=masterTyper)
   
+![masterTyper's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterTyper)
+  
 </div>
 
 ### 🔭 I’m currently working on
